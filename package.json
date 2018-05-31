@@ -1,0 +1,20 @@
+{
+  "name": "awesome-background",
+  "version": "1.0.0",
+  "description": "Beautiful, awesome and lightweight webpage backgrounds.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fantasyui-com/awesome-background.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fantasyui-com/awesome-background/issues"
+  },
+  "homepage": "https://github.com/fantasyui-com/awesome-background#readme"
+}

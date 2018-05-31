@@ -1,0 +1,9 @@
+html, body {height: 100%;}
+body {
+    background-attachment: fixed !important;
+}
+
+.background-demo {
+  margin: 3em 0;
+  padding: 15em 0;
+}
